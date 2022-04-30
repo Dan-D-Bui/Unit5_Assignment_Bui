@@ -1,0 +1,9 @@
+********************Reciept********************
+
+Item             Item Count           Item Cost
+
+
+                           Subtotal:       0.00
+                                Tax:       0.00
+                          Total Due:       0.00
+                             Change:       0.00
