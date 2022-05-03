@@ -2,8 +2,9 @@
 
 Item             Item Count           Item Cost
 
+Green Tea                 4               12.00
 
-                           Subtotal:       0.00
-                                Tax:       0.00
-                          Total Due:       0.00
-                             Change:       0.00
+                           Subtotal:      12.00
+                                Tax:      12.99
+                          Total Due:      20.13
+                             Change:      29.87

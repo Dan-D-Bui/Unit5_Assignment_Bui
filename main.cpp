@@ -1,4 +1,12 @@
-//A  Restaurant Project Struct style Dr_T Dr. Tyson McMillan 10-2-2019
+/*
+Dan Bui
+4/30/22
+Dr. T @ TCC
+
+Program to process payment and print a receipt for ordering food
+
+Learned how to work with vectors
+*/
 
 #include <iostream>
 #include<string>
